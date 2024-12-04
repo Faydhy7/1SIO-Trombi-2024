@@ -1,0 +1,100 @@
+/* Général */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+header {
+    background-color: #c1a29c;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+header p {
+    font-size: 1.2em;
+    margin-top: 10px;
+}
+
+/* Sections */
+section {
+    padding: 20px;
+    margin: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: black;
+    font-size: 1.8em;
+    border-bottom: 2px solid #4CAF50;
+    padding-bottom: 5px;
+}
+
+/* Contact */
+.contact ul {
+    list-style: none;
+    padding: 0;
+}
+
+.contact ul li {
+    font-size: 1.1em;
+    margin: 10px 0;
+}
+
+/* Expérience */
+.stage ul {
+    list-style: none;
+    padding: 0;
+}
+
+.stage ul li {
+    margin: 5px 0;
+}
+
+/* Formation */
+.niveau h3 {
+    margin: 0;
+    font-size: 1.3em;
+    color: #333;
+}
+
+.niveau p {
+    margin: 5px 0;
+}
+
+/* Compétences et Langues */
+.skills ul, .languages ul {
+    list-style: none;
+    padding: 0;
+}
+
+.skills ul li, .languages ul li {
+    margin: 5px 0;
+    font-size: 1.1em;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #c1a29c;
+    color: white;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+footer p {
+    margin: 0;
+    font-size: 1em;
+}
