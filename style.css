@@ -1,0 +1,17 @@
+#MATTOIR {
+    background: radial-gradient(circle at center, 
+        #0000ff,  
+        #4b0082,  
+        #8a2be2,  
+        #ff0000,  
+        #ffa500,  
+        #ffff00,  
+        #008000,  
+         #000000); 
+    color: black; 
+    padding: 20px;
+    border-radius: 15px; 
+    text-align: center; 
+    font-size: 14px; 
+    font-weight: bold; 
+}

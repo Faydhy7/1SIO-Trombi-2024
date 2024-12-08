@@ -24,6 +24,14 @@ header p {
     margin-top: 10px;
 }
 
+/* Profile */
+
+
+
+
+
+
+
 /* Sections */
 section {
     padding: 20px;
@@ -97,4 +105,12 @@ footer {
 footer p {
     margin: 0;
     font-size: 1em;
+}
+
+
+/*cadre profile*/
+
+#MATTOIR {
+    background-color: #0D0F13
+;
 }
